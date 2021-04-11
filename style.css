@@ -1,0 +1,71 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2, h3 {
+    font-size: 70px;
+    line-height: 85px;
+    margin: 0;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+p {
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 400;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-weight: medium;
+}
+
+.decoration-text {
+    color: #F66C41;
+}
+
+.main-wrapper {
+    max-width: 1000px;
+    min-height: 1136px;
+    background: url(pictures/andrew-neel-fGvXxVxmTi8-unsplash\ 1.jpg) no-repeat;
+    background-size: 1000px 1136px;
+    margin: 0 auto;
+    padding: 105px 0;
+}
+
+.wrapper {
+    width: 853px;
+    max-width: 853px;
+    margin: 0 auto;
+}
+
+.promo {
+    margin-bottom: 990px;
+}
+
+.about-photo, .later-joke, .preparing, .joke {
+    margin-bottom: 90px;
+}
+
+.cross-out {
+    text-decoration: line-through;
+}
+
+.about-photo-text {
+    color: #BCBBBB;
+}
+
+.skew {
+    font-style: italic;
+    font-weight: bold;
+}
+
+a {
+    text-decoration-color: #F66C41;
+    font-weight: medium;
+}
